@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">first project</string>
+    <string name="nama">Adam Anderson Yuniarto</string>
+    <string name="nim">20210140035</string>
+    <string name="judul">ASTREA</string>
+    <string name="bapak">BAPAK</string>
+    <string name="scan">Scan</string>
+    <string name="astrea">BUY NOW</string>
+    <string name="btnexplore">EXPLORE</string>
+
+</resources>
